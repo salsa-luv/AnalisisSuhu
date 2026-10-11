@@ -1,0 +1,14 @@
+===== LAPORAN SUHU HARIAN =====
+Rata-rata suhu: 31.14 derajat C
+Suhu tertinggi: 35 derajat C (Kamis)
+Suhu terendah: 28 derajat C (Minggu)
+Jumlah hari Panas: 3
+
+Data suhu harian:
+Senin: 31 derajat C - Normal
+Selasa: 33 derajat C - Panas
+Rabu: 29 derajat C - Normal
+Kamis: 35 derajat C - Panas
+Jumat: 32 derajat C - Panas
+Sabtu: 30 derajat C - Normal
+Minggu: 28 derajat C - Normal
